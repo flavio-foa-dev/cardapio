@@ -1,0 +1,154 @@
+{
+  "peixes": [
+    {
+      "id": 1,
+      "prato": "Cabista",
+      "descricao": "Peixe empanado, Pirão, Arroz e Salada",
+      "serve_1": 42.90,
+      "serve_2": 75.50
+    },
+    {
+      "id": 2,
+      "prato": "Filé de peixe com purê de baroa",
+      "descricao": "Peixe grelhado, purê de batata baroa, Arroz e Salada quente",
+      "serve_1": 42.90,
+      "serve_2": 75.50
+    },
+    {
+      "id": 3,
+      "prato": "Peixe Pargo",
+      "descricao": "Arroz, Pirão, Salada e Fritas",
+      "serve_1": 59.90,
+      "serve_2": 109.90
+    },
+    {
+      "id": 4,
+      "prato": "Filé de Peixe à Parmegiana",
+      "descricao": "Molho de tomate, Mozzarella, Orégano, Arroz e Fritas",
+      "serve_1": 59.90,
+      "serve_2": 109.90
+    },
+    {
+      "id": 5,
+      "prato": "Peixe do dia",
+      "descricao": "Arroz, Pirão, Salada e Fritas",
+      "serve_1": "não disponível",
+      "serve_2": 119.90
+    }
+  ],
+  "camarao": [
+    {
+      "id": 1,
+      "prato": "Moqueca de camarão",
+      "descricao": "Arroz e farofa de dendê",
+      "serve_1": 49.90,
+      "serve_2": 89.50
+    },
+    {
+      "id": 2,
+      "prato": "Camarão com catupiry",
+      "descricao": "Arroz e Salada",
+      "serve_1": 49.90,
+      "serve_2": 89.90
+    },
+    {
+      "id": 3,
+      "prato": "Estrogonofe de camarão",
+      "descricao": "Arroz, Fritas, Salada",
+      "serve_1": 54.90,
+      "serve_2": 94.90
+    },
+    {
+      "id": 4,
+      "prato": "Camarão à milanesa",
+      "descricao": "Arroz à grega e Salada",
+      "serve_1": 54.90,
+      "serve_2": 94.90
+    }
+  ],
+  "carne": [
+    {
+      "id": 1,
+      "prato": "Carioquinha",
+      "descricao": "Bife, Arroz, Feijão, Fritas e Salada",
+      "serve_1": 47.90,
+      "serve_2": 80.90
+    },
+    {
+      "id": 2,
+      "prato": "Contrafilé à parmegiana",
+      "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
+      "serve_1": 59.90,
+      "serve_2": 109.90
+    },
+    {
+      "id": 3,
+      "prato": "Carne assada com purê",
+      "descricao": "Carne assada, Purê de batata, Arroz, Salada",
+      "serve_1": 42.90,
+      "serve_2": 76.90
+    }
+  ],
+  "frango": [
+    {
+      "id": 1,
+      "prato": "Caipira",
+      "descricao": "Filé de frango à milanesa, Arroz, Feijão, Fritas e Salada",
+      "serve_1": 38.90,
+      "serve_2": 72.90
+    },
+    {
+      "id": 2,
+      "prato": "Filé de frango à parmegiana",
+      "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
+      "serve_1": 42.90,
+      "serve_2": 75.90
+    },
+    {
+      "id": 3,
+      "prato": "Omelete de queijo",
+      "descricao": "Ovo, Mussarela",
+      "serve_1": 35.90,
+      "serve_2": "não disponível"
+    }
+  ],
+  "massas": [
+    {
+      "id": 1,
+      "prato": "Espaguete - Nhoque - Talharim",
+      "descricao": "Molho bolonhesa - Quatro queijos - Poverella",
+      "serve_1": 65.90,
+      "serve_2": "não disponível"
+    },
+    {
+      "id": 2,
+      "prato": "Espaguete - Nhoque - Talharim",
+      "descricao": "Molho camarão ao molho vermelho",
+      "serve_1": 74.90,
+      "serve_2": "não disponível"
+    },
+    {
+      "id": 3,
+      "prato": "Espaguete - Nhoque - Talharim",
+      "descricao": "Molho camarão ao catupiry",
+      "serve_1": 79.90,
+      "serve_2": "não disponível"
+    }
+  ],
+  "lasanha": [
+    {
+      "id": 1,
+      "prato": "Bolonhesa - Quatro queijos",
+      "descricao": "",
+      "serve_1": 65.90,
+      "serve_2": "não disponível"
+    },
+    {
+      "id": 2,
+      "prato": "Camarão",
+      "descricao": "",
+      "serve_1": 74.90,
+      "serve_2": "não disponível"
+    }
+  ]
+}
