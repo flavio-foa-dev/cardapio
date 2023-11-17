@@ -32,7 +32,7 @@
       "id": 5,
       "prato": "Peixe do dia",
       "descricao": "Arroz, Pirão, Salada e Fritas",
-      "serve_1": "não disponível",
+      "serve_1": "0",
       "serve_2": 119.90
     }
   ],
@@ -109,7 +109,7 @@
       "prato": "Omelete de queijo",
       "descricao": "Ovo, Mussarela",
       "serve_1": 35.90,
-      "serve_2": "não disponível"
+      "serve_2": "0"
     }
   ],
   "massas": [
@@ -118,21 +118,21 @@
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho bolonhesa - Quatro queijos - Poverella",
       "serve_1": 65.90,
-      "serve_2": "não disponível"
+      "serve_2": "0"
     },
     {
       "id": 2,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho camarão ao molho vermelho",
       "serve_1": 74.90,
-      "serve_2": "não disponível"
+      "serve_2": "0"
     },
     {
       "id": 3,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho camarão ao catupiry",
       "serve_1": 79.90,
-      "serve_2": "não disponível"
+      "serve_2": "0"
     }
   ],
   "lasanha": [
@@ -141,14 +141,14 @@
       "prato": "Bolonhesa - Quatro queijos",
       "descricao": "",
       "serve_1": 65.90,
-      "serve_2": "não disponível"
+      "serve_2": "0"
     },
     {
       "id": 2,
       "prato": "Camarão",
       "descricao": "",
       "serve_1": 74.90,
-      "serve_2": "não disponível"
+      "serve_2": "0"
     }
   ]
 }
