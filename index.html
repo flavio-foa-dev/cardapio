@@ -16,7 +16,7 @@
         }
 
         .even {
-            background-color: #837878; /* Cor para linhas pares */
+            background-color: #e7e6e6; /* Cor para linhas pares */
         }
 
         .menu-item p {
@@ -39,12 +39,30 @@
             font-size: 1.2rem;
             color: #777; /* Cor das informações (valor e serve) */
         }
+
+        .navbar {
+           background-image: url('./img/casa.jpeg');
+           background-size: cover; /* Garante que a imagem de fundo cubra completamente o elemento */
+           background-position: center; /* Centraliza a imagem de fundo */
+           padding: 40px; /* Adiciona algum espaço interno ao navbar */
+        }
+        .title {
+            color: #fdf9f9;
+            font-weight: 900;
+        }
+
+
+    @media (min-width: 768px) {
+        .menu-item {
+            display: inline-block;
+    }
+}
     </style>
 </head>
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Restaurante Cardapio</a>
+        <a class="navbar-brand" href="#"><span class="title">Cardapio</span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

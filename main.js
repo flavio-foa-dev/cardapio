@@ -41,7 +41,6 @@ function renderizarCardapio(contador, sectionId, data) {
         <div id="collapse${contador}" class="collapse ${contador === 1 ? 'show' : ''}" aria-labelledby="section${contador}" data-parent="#accordion">
             <div class="card-body">
             <div class="card-body">
-                <!-- Adicione os pratos da seção de entradas aqui -->
 
                 <div class="menu-item">
                 ${handlePlates(data)}
@@ -55,7 +54,7 @@ function renderizarCardapio(contador, sectionId, data) {
 
 function handlePlates(data) {
   return data.map((plate)=> `
-    <div>
+    <div class="">
       <h4>${plate.prato}</h4>
       <p class="description">${plate.descricao}</p>
     </div>
