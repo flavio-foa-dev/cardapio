@@ -38,7 +38,8 @@ function renderizarCardapio(contador, sectionId, data) {
             </h2>
         </div>
 
-        <div id="collapse${contador}" class="collapse show" aria-labelledby="section${contador}" data-parent="#accordion">
+        <div id="collapse${contador}" class="collapse ${contador === 1 ? 'show' : ''}" aria-labelledby="section${contador}" data-parent="#accordion">
+            <div class="card-body">
             <div class="card-body">
                 <!-- Adicione os pratos da seção de entradas aqui -->
 
