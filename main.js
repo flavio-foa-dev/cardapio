@@ -75,24 +75,26 @@ function handlePlates(data, sectionId) {
 }
 
 
-async function scrollToSection(sectionId) {
+async function scrollToSection(sectionId, id) {
   // Fecha todos os acordeões
   $('.collapse').collapse('hide');
 
   // Encontre o acordeão correspondente e o abra
   const acordeonElement = document.getElementById(sectionId);
+
   console.log(acordeonElement)
   if (acordeonElement) {
       $(acordeonElement).collapse('show');
   }
 
   // Verifique se a seção existe
-  const sectionElement =  document.getElementById(sectionId);
+  const sectionElement =  document.getElementById(id);
+
   if (sectionElement) {
       // Use o método scrollIntoView para rolar até a seção
       sectionElement.scrollIntoView({ block: "start" });
       const sectionStart =  sectionElement.offsetTop;
-        window.scrollBy(0, -sectionStart - 10);
+        window.scrollBy(0, -sectionStart - 10 );
 
   }
 }
