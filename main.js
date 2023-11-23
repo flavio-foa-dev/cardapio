@@ -75,8 +75,7 @@ function handlePlates(data, sectionId) {
 }
 
 
-function scrollToSection(sectionId) {
-  console.log('Scroll to section', sectionId);
+async function scrollToSection(sectionId) {
   // Fecha todos os acordeões
   $('.collapse').collapse('hide');
 
@@ -88,11 +87,11 @@ function scrollToSection(sectionId) {
   }
 
   // Verifique se a seção existe
-  const sectionElement = document.getElementById(sectionId);
+  const sectionElement =  document.getElementById(sectionId);
   if (sectionElement) {
       // Use o método scrollIntoView para rolar até a seção
       sectionElement.scrollIntoView({ block: "start" });
-      const sectionStart = sectionElement.offsetTop;
+      const sectionStart =  sectionElement.offsetTop;
         window.scrollBy(0, -sectionStart - 10);
 
   }
