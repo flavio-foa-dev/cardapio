@@ -92,9 +92,9 @@ async function scrollToSection(sectionId, id) {
 
   if (sectionElement) {
       // Use o método scrollIntoView para rolar até a seção
-      sectionElement.scrollIntoView({ block: "start" });
+      sectionElement.scrollIntoView({block: 'start', inline: 'end' });
       const sectionStart =  sectionElement.offsetTop;
-        window.scrollBy(0, -sectionStart - 10 );
+        window.scrollBy(0, -sectionStart - 0 );
 
   }
 }

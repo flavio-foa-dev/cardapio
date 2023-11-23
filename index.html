@@ -88,6 +88,24 @@
             font-weight: 900;
         }
 
+        /* Adicione o seguinte estilo para o botão do WhatsApp */
+        .whatsapp-button {
+            position: fixed;
+            bottom: 47px;
+            right: 10px;
+            background-color: #25d366;
+            color: #fff;
+            border: none;
+            border-radius: 9999%;
+            padding: 4px 10px ;
+            font-size: 25px;
+            cursor: pointer;
+        }
+
+        .whatsapp-button i {
+            margin: 0;
+        }
+
 
     @media (min-width: 768px) {
         .menu-item {
@@ -127,12 +145,12 @@
     </div>
 
 
-<div class="container mt-5">
+<div class="container mt-5"></div>
 
-
-
-
-</div>
+  <!-- Botão de WhatsApp -->
+  <a href="https://api.whatsapp.com/send?phone=22997219677" target="_blank" class="whatsapp-button">
+    <i class="fab fa-whatsapp"></i>
+</a>
 <footer>
     <p>&copy; <span id="year"></span> Cardapio | Desenvolvido por Flavio-foa <a href="https://github.com/flavio-foa-dev/cardapio" target="_blank"><img src="./img/github-logo.svg" alt="GitHub"></a></p>
 </footer>
