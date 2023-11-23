@@ -91,7 +91,6 @@ function scrollToSection(sectionId) {
   const sectionElement = document.getElementById(sectionId);
   if (sectionElement) {
       // Use o método scrollIntoView para rolar até a seção
-      sectionElement.scrollIntoView({ behavior: 'smooth' });
-      window.scrollBy(0, -sectionStart - 20);
+      sectionElement.scrollIntoView({ block: "start" });
   }
 }
