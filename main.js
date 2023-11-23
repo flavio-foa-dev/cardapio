@@ -92,5 +92,8 @@ function scrollToSection(sectionId) {
   if (sectionElement) {
       // Use o método scrollIntoView para rolar até a seção
       sectionElement.scrollIntoView({ block: "start" });
+      const sectionStart = sectionElement.offsetTop;
+        window.scrollBy(0, -sectionStart - 10);
+
   }
 }
