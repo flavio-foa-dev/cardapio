@@ -328,5 +328,84 @@
       "serve_1": 13.90,
       "serve_2": 0
     }
+  ],
+  "bebidas": [
+    {
+      "id": 1,
+      "prato": "Água sem gás",
+      "descricao": "",
+      "serve_1": 3.90,
+      "serve_2": 0
+    },
+    {
+      "id": 2,
+      "prato": "Água com gás",
+      "descricao": "",
+      "serve_1": 4.90,
+      "serve_2": 0
+    },
+    {
+      "id": 4,
+      "prato": "Refrigerante lata",
+      "descricao": "coca cola, guaraná, fanta, etc",
+      "serve_1": 8.90,
+      "serve_2": 0
+    },
+    {
+      "id": 5,
+      "prato": "Guaravita",
+      "descricao": "",
+      "serve_1": 3.90,
+      "serve_2": 0
+    },
+    {
+      "id": 6,
+      "prato": "Guaraviton",
+      "descricao": "",
+      "serve_1": 7.90,
+      "serve_2": 0
+    },
+    {
+      "id": 7,
+      "prato": "Mate Leão",
+      "descricao": "",
+      "serve_1": 8.90,
+      "serve_2": 0
+    },
+    {
+      "id": 8,
+      "prato": "Suco Del Valle",
+      "descricao": "",
+      "serve_1": 8.90,
+      "serve_2": 0
+    },
+    {
+      "id": 9,
+      "prato": "Suco laranja copo",
+      "descricao": "laranja pura sem gelo e sem água",
+      "serve_1": 9.90,
+      "serve_2": 0
+    },
+    {
+      "id": 10,
+      "prato": "Suco de laranja jarra",
+      "descricao": "laranja pura, sem gelo sem água",
+      "serve_1": 33.90,
+      "serve_2": 0
+    },
+    {
+      "id": 11,
+      "prato": "Suco limonada suíça copo",
+      "descricao": "",
+      "serve_1": 8.90,
+      "serve_2": 0
+    },
+    {
+      "id": 12,
+      "prato": "Suco limonada suíça jarra",
+      "descricao": "",
+      "serve_1": 27.90,
+      "serve_2": 0
+    }
   ]
 }
