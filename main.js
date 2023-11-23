@@ -43,7 +43,7 @@ function renderizarCardapio(contador, sectionId, data) {
             <div class="card-body">
 
                 <div class="menu-item">
-                ${handlePlates(data)}
+                ${handlePlates(data, sectionId)}
                 </div>
 
             </div>
@@ -52,16 +52,46 @@ function renderizarCardapio(contador, sectionId, data) {
   `;
 }
 
-function handlePlates(data) {
+function handlePlates(data, sectionId) {
   return data.map((plate)=> `
     <div class="">
       <h4>${plate.prato}</h4>
       <p class="description">${plate.descricao}</p>
     </div>
     <div class="info">
-      <p> ${plate.serve_1 > 0 ? `Valor para 1: R$ ${Number(plate.serve_1).toFixed(2)}` : ""}</p>
-      <p>${plate.serve_2 > 0 ? `Valor para 2: R$ ${Number(plate.serve_2).toFixed(2)}` : ""}</p>
+    ${
+      sectionId === "Bebidas" || sectionId === "Vinhos" || sectionId === "Cervejas" || sectionId === "Drinks" || sectionId === "Bebidas Alcoolicas"
+        ? `<p> ${plate.serve_1 > 0 ? `Valor: R$ ${Number(plate.serve_1).toFixed(2)}` : ""}</p>
+           <p>${plate.serve_2 > 0 ? `Valor: R$ ${Number(plate.serve_2).toFixed(2)}` : ""}</p>`
+        : sectionId === "Pizzas" || sectionId === "Pizzas doces"
+          ? `<p> ${plate.serve_1 > 0 ? `Valor Pequena: R$ ${Number(plate.serve_1).toFixed(2)}` : ""}</p>
+             <p>${plate.serve_2 > 0 ? `Valor Grande: R$ ${Number(plate.serve_2).toFixed(2)}` : ""}</p>`
+          : `<p> ${plate.serve_1 > 0 ? `Valor para 1: R$ ${Number(plate.serve_1).toFixed(2)}` : ""}</p>
+             <p>${plate.serve_2 > 0 ? `Valor para 2: R$ ${Number(plate.serve_2).toFixed(2)}` : ""}</p>`
+    }
       <hr>
       </div>
   `).join('');
+}
+
+
+function scrollToSection(sectionId) {
+  console.log('Scroll to section', sectionId);
+  // Fecha todos os acordeões
+  $('.collapse').collapse('hide');
+
+  // Encontre o acordeão correspondente e o abra
+  const acordeonElement = document.getElementById(sectionId);
+  console.log(acordeonElement)
+  if (acordeonElement) {
+      $(acordeonElement).collapse('show');
+  }
+
+  // Verifique se a seção existe
+  const sectionElement = document.getElementById(sectionId);
+  if (sectionElement) {
+      // Use o método scrollIntoView para rolar até a seção
+      sectionElement.scrollIntoView({ behavior: 'smooth' });
+      window.scrollBy(0, -sectionStart - 20);
+  }
 }

@@ -408,7 +408,7 @@
       "serve_2": 0
     }
   ],
-  "Ceverja": [
+  "Cervejas": [
     {
       "id": 1,
       "prato": "Heineken 600ml",
@@ -459,7 +459,7 @@
       "serve_2": 0
     }
   ],
-  "Vinho": [
+  "Vinhos": [
     {
       "id": 1,
       "prato": "Galioto taça",
