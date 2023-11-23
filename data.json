@@ -407,5 +407,188 @@
       "serve_1": 27.90,
       "serve_2": 0
     }
+  ],
+  "Ceverja": [
+    {
+      "id": 1,
+      "prato": "Heineken 600ml",
+      "descricao": "",
+      "serve_1": 18.90,
+      "serve_2": 0
+    },
+    {
+      "id": 2,
+      "prato": "Original 600ml",
+      "descricao": "",
+      "serve_1": 14.90,
+      "serve_2": 0
+    },
+    {
+      "id": 3,
+      "prato": "Stella artois 600ml",
+      "descricao": "",
+      "serve_1": 15.90,
+      "serve_2": 0
+    },
+    {
+      "id": 4,
+      "prato": "Brahma 600ml",
+      "descricao": "",
+      "serve_1": 14.90,
+      "serve_2": 0
+    },
+    {
+      "id": 5,
+      "prato": "Heineken long neck",
+      "descricao": "",
+      "serve_1": 11.90,
+      "serve_2": 0
+    },
+    {
+      "id": 6,
+      "prato": "Brahma latão",
+      "descricao": "",
+      "serve_1": 9.90,
+      "serve_2": 0
+    },
+    {
+      "id": 7,
+      "prato": "Antartica latão",
+      "descricao": "",
+      "serve_1": 9.90,
+      "serve_2": 0
+    }
+  ],
+  "Vinho": [
+    {
+      "id": 1,
+      "prato": "Galioto taça",
+      "descricao": "",
+      "serve_1": 18.90,
+      "serve_2": 0
+    },
+    {
+      "id": 2,
+      "prato": "Concha toro",
+      "descricao": "Cabernet, Sauvignon, Carmenere, Merlot, Malbec",
+      "serve_1": 0,
+      "serve_2": 62.90
+    },
+    {
+      "id": 3,
+      "prato": "Porca de Murça",
+      "descricao": "",
+      "serve_1": 0,
+      "serve_2": 119.90
+    },
+    {
+      "id": 4,
+      "prato": "Periquita",
+      "descricao": "",
+      "serve_1": 0,
+      "serve_2": 119.90
+    }
+  ],
+  "Bebidas Alcoolicas": [
+    {
+      "id": 1,
+      "prato": "Whisky 8 anos",
+      "descricao": "Dose",
+      "serve_1": 19.90,
+      "serve_2": 0
+    },
+    {
+      "id": 2,
+      "prato": "Whisky 12 anos",
+      "descricao": "Dose",
+      "serve_1": 29.90,
+      "serve_2": 0
+    },
+    {
+      "id": 3,
+      "prato": "Vodka Smirnoff",
+      "descricao": "",
+      "serve_1": 14.90,
+      "serve_2": 0
+    },
+    {
+      "id": 4,
+      "prato": "Vodka Absolut",
+      "descricao": "",
+      "serve_1": 17.90,
+      "serve_2": 0
+    },
+    {
+      "id": 4,
+      "prato": "Campari",
+      "descricao": "",
+      "serve_1": 12.90,
+      "serve_2": 0
+    }
+  ],
+  "Drinks": [
+    {
+      "id": 1,
+      "prato": "Aperol Spritz",
+      "descricao": "",
+      "serve_1": 35.90,
+      "serve_2": 0
+    },
+    {
+      "id": 2,
+      "prato": "Caipirinha",
+      "descricao": "",
+      "serve_1": 17.90,
+      "serve_2": 0
+    },
+    {
+      "id": 3,
+      "prato": "CaipiVodka Smirnoff",
+      "descricao": "",
+      "serve_1": 19.90,
+      "serve_2": 0
+    },
+    {
+      "id": 4,
+      "prato": "CaipiVodka Importada",
+      "descricao": "",
+      "serve_1": 25.90,
+      "serve_2": 0
+    },
+    {
+      "id": 5,
+      "prato": "Cuba Libre",
+      "descricao": "",
+      "serve_1": 17.90,
+      "serve_2": 0
+    },
+    {
+      "id": 6,
+      "prato": "Gin Tonica Nacional",
+      "descricao": "",
+      "serve_1": 29.90,
+      "serve_2": 0
+    },
+    {
+      "id": 7,
+      "prato": "Gin Tonica Importada",
+      "descricao": "",
+      "serve_1": 35.90,
+      "serve_2": 0
+    },
+    {
+      "id": 8,
+      "prato": "Mojito",
+      "descricao": "",
+      "serve_1": 25.90,
+      "serve_2": 0
+    },
+    {
+      "id": 9,
+      "prato": "Moscow Mule",
+      "descricao": "",
+      "serve_1": 25.90,
+      "serve_2": 0
+    }
   ]
 }
