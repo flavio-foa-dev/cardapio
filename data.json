@@ -163,29 +163,29 @@
       "id": 2,
       "prato": "Azeitona temperada",
       "descricao": "uma porção",
-      "serve_1": 24.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 24.90
     },
     {
       "id": 3,
       "prato": "Batata frita",
       "descricao": "uma porção",
-      "serve_1": 35.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 35.90
     },
     {
       "id": 4,
       "prato": "Batata frita turbinada",
       "descricao": "fritas queijo e bacon",
-      "serve_1": 45.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 45.90
     },
     {
       "id": 5,
-      "prato": "Pastel 8 unidades (dois sabores)",
+      "prato": "Pastel 8 unidades (escolha dois sabores)",
       "descricao": "camarão, queijo, carne, pera e gorgonzola, frutos do mar (siri, polvo, mexilhao, camarao)",
-      "serve_1": 44.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 44.90
     }
   ],
   "combos": [
@@ -193,22 +193,22 @@
       "id": 1,
       "prato": "Calabresa com fritas",
       "descricao": "uma porção",
-      "serve_1": 60.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 60.90
     },
     {
       "id": 2,
       "prato": "Frango com fritas",
       "descricao": "uma porção",
-      "serve_1": 60.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 60.90
     },
     {
       "id": 3,
       "prato": "Peixe com fritas",
       "descricao": "uma porção",
-      "serve_1": 60.90,
-      "serve_2": 0
+      "serve_1": 0,
+      "serve_2": 60.90
     }
   ],
   "pizzas": [
