@@ -11,6 +11,30 @@
             margin-bottom: 100px;
             background-color: #dadada;
         }
+
+        footer {
+background-color: #333;
+color: rgba(255, 255, 255, 0.5); /* Cor com opacidade (alpha) de 0.8 */
+text-align: center;
+padding: 10px 0px 10px 0px;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+
+footer p {
+margin: 0;
+}
+
+footer a {
+text-decoration: none;
+color: rgba(255, 255, 255, 1); /* Cor do texto com opacidade 1 (sem opacidade) */
+}
+
+footer a img {
+width: 20px; /* Ajuste o tamanho da imagem conforme necessário */
+margin-bottom: -5px; /* Ajuste para alinhar melhor a imagem e o texto */
+}
         .menu-item {
             display: flex;
             justify-content: space-between;
@@ -91,6 +115,9 @@
 
 
 </div>
+<footer>
+    <p>&copy; <span id="year"></span> Cardapio | Desenvolvido por Flavio-foa <a href="https://github.com/flavio-foa-dev/cardapio" target="_blank"><img src="./img/github-logo.svg" alt="GitHub"></a></p>
+</footer>
 
 <!-- Adicione os scripts do Bootstrap e do jQuery -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
