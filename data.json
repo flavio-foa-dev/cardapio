@@ -1,5 +1,5 @@
 {
-  "peixes": [
+  "Peixes": [
     {
       "id": 1,
       "prato": "Cabista",
@@ -36,7 +36,7 @@
       "serve_2": 119.90
     }
   ],
-  "camarao": [
+  "Camarao": [
     {
       "id": 1,
       "prato": "Moqueca de camarão",
@@ -66,7 +66,7 @@
       "serve_2": 94.90
     }
   ],
-  "carne": [
+  "Carne": [
     {
       "id": 1,
       "prato": "Carioquinha",
@@ -89,7 +89,7 @@
       "serve_2": 76.90
     }
   ],
-  "frango": [
+  "Frango": [
     {
       "id": 1,
       "prato": "Caipira",
@@ -112,7 +112,7 @@
       "serve_2": 0
     }
   ],
-  "massas": [
+  "Massas": [
     {
       "id": 1,
       "prato": "Espaguete - Nhoque - Talharim",
@@ -135,7 +135,7 @@
       "serve_2": 0
     }
   ],
-  "lasanha": [
+  "Lasanha": [
     {
       "id": 1,
       "prato": "Bolonhesa - Quatro queijos",
@@ -151,7 +151,7 @@
       "serve_2": 0
     }
   ],
-  "aperitivos": [
+  "Aperitivos": [
     {
       "id": 1,
       "prato": "Casquinha de siri",
@@ -188,7 +188,7 @@
       "serve_2": 44.90
     }
   ],
-  "combos": [
+  "Combos": [
     {
       "id": 1,
       "prato": "Calabresa com fritas",
@@ -211,7 +211,7 @@
       "serve_2": 60.90
     }
   ],
-  "pizzas": [
+  "Pizzas": [
     {
       "id": 1,
       "prato": "Bianca",
@@ -283,7 +283,7 @@
       "serve_2": 71.90
     }
   ],
-  "pizzas doces": [
+  "Pizzas doces": [
     {
       "id": 1,
       "prato": "Banana",
@@ -313,7 +313,7 @@
       "serve_2": 71.90
     }
   ],
-  "sobremesa": [
+  "Sobremesa": [
     {
       "id": 1,
       "prato": "Banana valtellina",
@@ -329,7 +329,7 @@
       "serve_2": 0
     }
   ],
-  "bebidas": [
+  "Bebidas": [
     {
       "id": 1,
       "prato": "Água sem gás",

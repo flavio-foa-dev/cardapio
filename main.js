@@ -61,6 +61,7 @@ function handlePlates(data) {
     <div class="info">
       <p> ${plate.serve_1 > 0 ? `Valor para 1: R$ ${Number(plate.serve_1).toFixed(2)}` : ""}</p>
       <p>${plate.serve_2 > 0 ? `Valor para 2: R$ ${Number(plate.serve_2).toFixed(2)}` : ""}</p>
-    </div>
+      </div>
+      <hr>
   `).join('');
 }
