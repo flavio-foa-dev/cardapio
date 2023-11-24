@@ -62,6 +62,26 @@
             padding: 0;
             color: #dadada;
         }
+
+        .container img {
+            max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner pai */
+            height: auto; /* Mantém a proporção da imagem */
+            display: block; /* Remove o espaço extra abaixo da imagem */
+            margin: 20px 0; /* Adiciona margens acima e abaixo da imagem */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil */
+            border-radius: 8px; /* Adiciona bordas arredondadas */
+        }
+
+        .container img:hover {
+            transform: scale(1.1); /* Efeito de escala suave ao passar o mouse */
+            transition: transform 0.3s ease; /* Adiciona uma transição suave */
+        }
+
+
+        footer .container {
+            text-align: center;
+        }
+
     </style>
 </head>
 <body>
@@ -89,22 +109,23 @@
         <p>
             <strong>Valtellina</strong> é um vale na região da Itália da Lombardia, no nordeste italiano, na fronteira com a Suíça, ou seja, na Itália, onde o fundador da Pizzaria nasceu.
         </p>
+        <img src="../img/mapa.png" alt="mapa">
         <p>
             Atualmente, é conhecida como uma região de resorts para a prática de esqui, de spas termais e por seus queijos, principalmente o bitto, e seus vinhos. Nos séculos passados, foi uma passagem estratégica entre o norte da Itália e a Alemanha, sendo muito visada principalmente durante a Guerra dos Trinta Anos.
         </p>
     </div>
 
-    <footer class="bg-dark text-white py-3">
+    <footer class="bg-dark text-white py-4">
         <div class="container">
             <address>
-                <span>Endereço: Rodovia RJ102 - km 17 nr. 01 Pernambuco - Arraial do Cabo - RJ</span>
+                <span>Endereço: Rodovia RJ-102 - km 17 <span>Nr<sup>o</sup></span>. 01 Pernambuca - Arraial do Cabo - RJ</span>
                 <br>
                 <span>Telefone: (22) 99721-9677</span>
-                <br>
+                <br><br>
                 <span class="contener_icon">
-                    <a href="" target="_blank"><i class="fab fa-facebook social-icon facebook-icon"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-twitter social-icon twitter-icon"></i></a>
-                    <a href="" target="_blank"><i class="fab fa-linkedin social-icon linkedin-icon"></i></a>
+                    <a href="#" target="_blank"><i class="fab fa-facebook social-icon facebook-icon"></i></a>
+                    <a href="#" target="_blank"><i class="fab fa-twitter social-icon twitter-icon"></i></a>
+                    <a href="#" target="_blank"><i class="fab fa-linkedin social-icon linkedin-icon"></i></a>
                     <a href="https://www.instagram.com/pizzariavaltellina" target="_blank"><i class="fab fa-instagram social-icon instagram-icon"></i></a>
                     <a href="../index.html" target=""><i class="fas fa-utensils cardapio-icon"></i></a>
                 </span>
