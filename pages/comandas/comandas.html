@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./comandas.css">
+  <title>Sistema de Restaurante</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Sistema de Restaurante</h1>
+
+    <!-- Botão para abrir uma nova mesa -->
+    <button class="btn btn-primary" onclick="abrirMesa()">Abrir Mesa</button>
+
+    <!-- Lista de mesas abertas -->
+    <ul id="listaMesas" class="list-group mt-3">
+      <!-- As mesas abertas serão exibidas aqui -->
+    </ul>
+
+    <!-- Seção para adicionar pedidos -->
+    <div id="adicionarPedido" class="mt-3">
+      <h2>Adicionar Pedido</h2>
+      <label for="numeroMesaPedido">Número da Mesa:</label>
+      <input type="number" id="numeroMesaPedido" class="form-control" required>
+      <label for="itemPedido">Item:</label>
+      <input type="text" id="itemPedido" class="form-control" required>
+      <label for="precoPedido">Preço:</label>
+      <input type="number" id="precoPedido" class="form-control" required>
+      <button class="btn btn-success mt-2" onclick="adicionarPedido()">Adicionar Pedido</button>
+    </div>
+
+    <!-- Seção para visualizar itens pré-conta -->
+    <div id="preConta" class="mt-3">
+      <h2>Itens na Pré-Conta</h2>
+      <label for="numeroMesaPreConta">Número da Mesa:</label>
+      <input type="number" id="numeroMesaPreConta" class="form-control" required>
+      <button class="btn btn-info mt-2" onclick="visualizarPreConta()">Visualizar Pré-Conta</button>
+    </div>
+
+    <!-- Seção para fechar mesa e calcular total -->
+    <div id="fecharMesa" class="mt-3">
+      <h2>Fechar Mesa</h2>
+      <label for="numeroMesa">Número da Mesa:</label>
+      <input type="number" id="numeroMesa" class="form-control" required>
+      <button class="btn btn-danger mt-2" onclick="fecharMesa()">Fechar Mesa</button>
+    </div>
+  </div>
+
+  <script src="./comandas.js"></script>
+</body>
+</html>

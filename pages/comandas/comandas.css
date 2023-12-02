@@ -1,0 +1,27 @@
+body {
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+}
+
+#fecharMesa,
+#adicionarPedido,
+#preConta {
+  display: none;
+}
+
+.mesa-aberta {
+  border: 2px solid #28a745;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.mesa-fechada {
+  border: 2px solid #dc3545;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
