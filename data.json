@@ -4,36 +4,36 @@
       "id": 1,
       "prato": "Cabista",
       "descricao": "Peixe empanado, Pirão, Arroz e Salada",
-      "serve_1": 42.90,
-      "serve_2": 75.50
+      "serve_1": 53.90,
+      "serve_2": 96.90
     },
     {
       "id": 2,
       "prato": "Filé de peixe com purê de baroa",
       "descricao": "Peixe grelhado, purê de batata baroa, Arroz e Salada quente",
-      "serve_1": 42.90,
-      "serve_2": 75.50
+      "serve_1": 53.90,
+      "serve_2": 96.90
     },
     {
       "id": 3,
       "prato": "Peixe Pargo",
       "descricao": "Arroz, Pirão, Salada e Fritas",
-      "serve_1": 59.90,
-      "serve_2": 109.90
+      "serve_1": 71.90,
+      "serve_2": 129.90
     },
     {
       "id": 4,
       "prato": "Filé de Peixe à Parmegiana",
       "descricao": "Molho de tomate, Mozzarella, Orégano, Arroz e Fritas",
-      "serve_1": 59.90,
-      "serve_2": 109.90
+      "serve_1": 71.90,
+      "serve_2": 129.90
     },
     {
       "id": 5,
       "prato": "Peixe do dia",
       "descricao": "Arroz, Pirão, Salada e Fritas",
       "serve_1":  0,
-      "serve_2": 119.90
+      "serve_2": 154.90
     }
   ],
   "Camarao": [
@@ -41,29 +41,29 @@
       "id": 1,
       "prato": "Moqueca de camarão",
       "descricao": "Arroz e farofa de dendê",
-      "serve_1": 49.90,
-      "serve_2": 89.50
+      "serve_1": 60.90,
+      "serve_2": 109.90
     },
     {
       "id": 2,
       "prato": "Camarão com catupiry",
       "descricao": "Arroz e Salada",
-      "serve_1": 49.90,
-      "serve_2": 89.90
+      "serve_1": 60.90,
+      "serve_2": 109.90
     },
     {
       "id": 3,
       "prato": "Estrogonofe de camarão",
       "descricao": "Arroz, Fritas, Salada",
-      "serve_1": 54.90,
-      "serve_2": 94.90
+      "serve_1": 63.90,
+      "serve_2": 114.90
     },
     {
       "id": 4,
       "prato": "Camarão à milanesa",
       "descricao": "Arroz à grega e Salada",
-      "serve_1": 54.90,
-      "serve_2": 94.90
+      "serve_1": 63.90,
+      "serve_2": 114.90
     }
   ],
   "Carne": [
@@ -71,22 +71,22 @@
       "id": 1,
       "prato": "Carioquinha",
       "descricao": "Bife, Arroz, Feijão, Fritas e Salada",
-      "serve_1": 47.90,
-      "serve_2": 80.90
+      "serve_1": 53.90,
+      "serve_2": 97.90
     },
     {
       "id": 2,
       "prato": "Contrafilé à parmegiana",
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
-      "serve_1": 59.90,
-      "serve_2": 109.90
+      "serve_1": 67.90,
+      "serve_2": 119.90
     },
     {
       "id": 3,
       "prato": "Carne assada com purê",
       "descricao": "Carne assada, Purê de batata, Arroz, Salada",
-      "serve_1": 42.90,
-      "serve_2": 76.90
+      "serve_1": 51.90,
+      "serve_2": 92.90
     }
   ],
   "Frango": [
@@ -94,15 +94,15 @@
       "id": 1,
       "prato": "Caipira",
       "descricao": "Filé de frango à milanesa, Arroz, Feijão, Fritas e Salada",
-      "serve_1": 38.90,
-      "serve_2": 72.90
+      "serve_1": 51.90,
+      "serve_2": 92.90
     },
     {
       "id": 2,
       "prato": "Filé de frango à parmegiana",
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
-      "serve_1": 42.90,
-      "serve_2": 75.90
+      "serve_1": 52.90,
+      "serve_2": 95.90
     },
     {
       "id": 3,
@@ -117,21 +117,21 @@
       "id": 1,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho bolonhesa - Quatro queijos - Poverella",
-      "serve_1": 65.90,
+      "serve_1": 70.90,
       "serve_2": 0
     },
     {
       "id": 2,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho camarão ao molho vermelho",
-      "serve_1": 74.90,
+      "serve_1": 84.90,
       "serve_2": 0
     },
     {
       "id": 3,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho camarão ao catupiry",
-      "serve_1": 79.90,
+      "serve_1": 91.90,
       "serve_2": 0
     }
   ],
@@ -140,14 +140,14 @@
       "id": 1,
       "prato": "Bolonhesa - Quatro queijos",
       "descricao": "",
-      "serve_1": 65.90,
+      "serve_1": 70.90,
       "serve_2": 0
     },
     {
       "id": 2,
       "prato": "Camarão",
       "descricao": "",
-      "serve_1": 74.90,
+      "serve_1": 84.90,
       "serve_2": 0
     }
   ],
@@ -156,7 +156,7 @@
       "id": 1,
       "prato": "Casquinha de siri",
       "descricao": "uma unidade",
-      "serve_1": 18.90,
+      "serve_1": 19.90,
       "serve_2": 0
     },
     {
@@ -164,28 +164,28 @@
       "prato": "Azeitona temperada",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 24.90
+      "serve_2": 29.90
     },
     {
       "id": 3,
       "prato": "Batata frita",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 35.90
+      "serve_2": 39.90
     },
     {
       "id": 4,
       "prato": "Batata frita turbinada",
       "descricao": "fritas queijo e bacon",
       "serve_1": 0,
-      "serve_2": 45.90
+      "serve_2": 63.90
     },
     {
       "id": 5,
       "prato": "Pastel 8 unidades (escolha dois sabores)",
       "descricao": "camarão, queijo, carne, pera e gorgonzola, frutos do mar (siri, polvo, mexilhao, camarao)",
       "serve_1": 0,
-      "serve_2": 44.90
+      "serve_2": 49.90
     }
   ],
   "Combos": [
@@ -194,21 +194,21 @@
       "prato": "Calabresa com fritas",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 60.90
+      "serve_2": 85.90
     },
     {
       "id": 2,
       "prato": "Frango com fritas",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 60.90
+      "serve_2": 85.90
     },
     {
       "id": 3,
       "prato": "Peixe com fritas",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 60.90
+      "serve_2": 89.90
     }
   ],
   "Pizzas": [
@@ -317,15 +317,15 @@
     {
       "id": 1,
       "prato": "Banana valtellina",
-      "descricao": "Banana  creme de de leite chocolate (quente) ",
-      "serve_1": 11.90,
+      "descricao": "Banana creme de de leite chocolate(quente)",
+      "serve_1": 14.90,
       "serve_2": 0
     },
     {
       "id": 2,
-      "prato": "Pudim",
+      "prato": "Sobremesa do dia",
       "descricao": "",
-      "serve_1": 13.90,
+      "serve_1": 14.90,
       "serve_2": 0
     }
   ],
@@ -383,28 +383,28 @@
       "id": 9,
       "prato": "Suco laranja copo",
       "descricao": "laranja pura sem gelo e sem água",
-      "serve_1": 9.90,
+      "serve_1": 13.90,
       "serve_2": 0
     },
     {
       "id": 10,
       "prato": "Suco de laranja jarra",
       "descricao": "laranja pura, sem gelo sem água",
-      "serve_1": 33.90,
+      "serve_1": 39.90,
       "serve_2": 0
     },
     {
       "id": 11,
       "prato": "Suco limonada suíça copo",
       "descricao": "",
-      "serve_1": 8.90,
+      "serve_1": 12.90,
       "serve_2": 0
     },
     {
       "id": 12,
       "prato": "Suco limonada suíça jarra",
       "descricao": "",
-      "serve_1": 27.90,
+      "serve_1": 34.90,
       "serve_2": 0
     }
   ],
@@ -434,7 +434,7 @@
       "id": 4,
       "prato": "Brahma 600ml",
       "descricao": "",
-      "serve_1": 14.90,
+      "serve_1": 13.90,
       "serve_2": 0
     },
     {
@@ -464,7 +464,7 @@
       "id": 1,
       "prato": "Galioto taça",
       "descricao": "",
-      "serve_1": 18.90,
+      "serve_1": 19.90,
       "serve_2": 0
     },
     {
