@@ -56,7 +56,7 @@ function handlePlates(data, sectionId) {
   return data.map((plate)=> `
     <div class="">
       <h4>${plate.prato}</h4>
-      <img src=${plate.main_img} alt=${plate.prato} width="300px">
+      <img src=${plate.main_img} alt=${plate.prato} width="250px">
       <p class="description">${plate.descricao}</p>
     </div>
     <div class="info">
