@@ -1,3 +1,15 @@
+function limparCache() {
+  if ('caches' in window) {
+    // Limpa o cache do serviço do trabalhador, se estiver disponível
+    caches.keys().then(function(names) {
+      for (let name of names) caches.delete(name);
+    });
+  }
+
+  // Limpa o cache do navegador
+  window.location.reload(true); // Força a recarga da página, ignorando o cache
+}
+
 
 // cardapio.js
 async function carregarJSON(url) {
