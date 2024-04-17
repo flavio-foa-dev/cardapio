@@ -231,7 +231,11 @@
       "prato": "Calabresa",
       "descricao": "muzzarella de bufala, molho de tomate, calabresa, cebola, azeitona preta, oregano",
       "serve_1": 46.90,
-      "serve_2": 72.90
+      "serve_2": 72.90,
+      "img_1":"public/pizza/calabresa/calabresa1.jpeg",
+      "img_2":"public/pizza/calabresa/calabresa2.jpeg",
+      "img_3":"public/pizza/calabresa/calabresa3.jpeg",
+      "imgs": []
     },
     {
       "id": 4,
@@ -252,7 +256,11 @@
       "prato": "Marguerita",
       "descricao": "muzzarella de bufala, molho de tomate, manjericão, tomate",
       "serve_1":  40.90,
-      "serve_2": 66.90
+      "serve_2": 66.90,
+      "img_1":"public/pizza/marguerita/marguerita1.jpeg",
+      "img_2":"public/pizza/marguerita/marguerita2.jpeg",
+      "img_3":"public/pizza/marguerita/marguerita3.jpeg",
+      "imgs": []
     },
     {
       "id": 7,
@@ -267,9 +275,9 @@
       "descricao": "muzzarella de bufala, molho de tomate, presunto, ovo, calabresa, tomate, cebola, pimentao, azeitona",
       "serve_1":  50.90,
       "serve_2": 82.90,
-      "img_1":"public/portuguesa1.jpeg",
-      "img_2":"public/portuguesa2.jpeg",
-      "img_3":"public/portuguesa3.jpeg",
+      "img_1":"public/pizza/portuguesa/portuguesa1.jpeg",
+      "img_2":"public/pizza/portuguesa/portuguesa2.jpeg",
+      "img_3":"public/pizza/portuguesa/portuguesa3.jpeg",
       "imgs": []
     },
     {
