@@ -267,7 +267,9 @@
       "descricao": "muzzarella de bufala, molho de tomate, presunto, ovo, calabresa, tomate, cebola, pimentao, azeitona",
       "serve_1":  50.90,
       "serve_2": 82.90,
-      "main_img":"public/portuguesa1.jpeg",
+      "img_1":"public/portuguesa1.jpeg",
+      "img_2":"public/portuguesa2.jpeg",
+      "img_3":"public/portuguesa3.jpeg",
       "imgs": []
     },
     {
