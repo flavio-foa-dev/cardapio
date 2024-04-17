@@ -56,7 +56,7 @@ function renderizarCardapio(contador, sectionId, data) {
             <div class="card-body">
 
                 <div class="menu-item">
-                ${handlePlates(contador,  data, sectionId)}
+                ${handlePlates(data, sectionId)}
                 </div>
 
             </div>
@@ -65,13 +65,13 @@ function renderizarCardapio(contador, sectionId, data) {
   `;
 }
 
-function handlePlates(contador, data, sectionId) {
+function handlePlates(data, sectionId) {
   return data.map((plate)=> `
     <div class="">
       <h4>${plate.prato}</h4>
 
       <!-- Início do Carrossel do Bootstrap -->
-      <div id="carouselExample${contador}" class="carousel slide" data-bs-ride="carousel">
+      <div id="carouselExample${plate.prato}" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="${plate.img_1}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
@@ -83,11 +83,11 @@ function handlePlates(contador, data, sectionId) {
             <img src="${plate.img_3}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample${contador}" data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample${plate.prato}" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample${contador}" data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample${plate.prato}" data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button>
