@@ -6,9 +6,10 @@ function limparCache() {
     });
   }
 
-  // Limpa o cache do navegador
-  window.location.reload(true); // Força a recarga da página, ignorando o cache
+  // // Limpa o cache do navegador
+  // window.location.reload(true); // Força a recarga da página, ignorando o cache
 }
+limparCache()
 
 
 // cardapio.js
@@ -73,13 +74,13 @@ function handlePlates(contador, data, sectionId) {
       <div id="carouselExample${contador}" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="${plate.img_1}" width="250px" class="d-block rounded" alt="${plate.prato}">
+            <img src="${plate.img_1}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
           <div class="carousel-item">
-            <img src="${plate.img_2}" width="250px" class="d-block rounded" alt="${plate.prato}">
+            <img src="${plate.img_2}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
           <div class="carousel-item">
-            <img src="${plate.img_3}" width="250px" class="d-block rounded" alt="${plate.prato}">
+            <img src="${plate.img_3}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample${contador}" data-bs-slide="prev">
