@@ -249,7 +249,11 @@
       "prato": "Frango com catupiry",
       "descricao": "muzzarella de bufala, molho de tomate, frango, catupiry, oregano",
       "serve_1":  50.90,
-      "serve_2": 83.90
+      "serve_2": 83.90,
+      "img_1":"public/pizza/frangoComCatupiry/frangoComCatupiry1.jpeg",
+      "img_2":"public/pizza/frangoComCatupiry/frangoComCatupiry2.jpeg",
+      "img_3":"public/pizza/frangoComCatupiry/frangoComCatupiry3.jpeg",
+      "imgs": []
     },
     {
       "id": 6,
@@ -301,14 +305,22 @@
       "prato": "Banana",
       "descricao": "muzzarella de bufala, banana, canela, açúcar",
       "serve_1": 38.90,
-      "serve_2": 64.90
+      "serve_2": 64.90,
+      "img_1":"public/pizza/banana/banana1.jpeg",
+      "img_2":"public/pizza/banana/banana2.jpeg",
+      "img_3":"public/pizza/banana/banana3.jpeg",
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Banana com chocolate",
       "descricao": "muzzarella de bufala, banana, creme de leite, canela, chocolate, açúcar",
       "serve_1": 41.90,
-      "serve_2": 69.90
+      "serve_2": 69.90,
+      "img_1":"public/pizza/bananaComChocolate/bananaComChocolate1.jpeg",
+      "img_2":"public/pizza/bananaComChocolate/bananaComChocolate2.jpeg",
+      "img_3":"public/pizza/bananaComChocolate/bananaComChocolate3.jpeg",
+      "imgs": []
     },
     {
       "id": 3,
@@ -544,7 +556,11 @@
       "prato": "Aperol Spritz",
       "descricao": "",
       "serve_1": 35.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "img_1":"public/drink/aperolSpritz/aperolSpritz1.jpeg",
+      "img_2":"public/drink/aperolSpritz/aperolSpritz2.jpeg",
+      "img_3":"public/drink/aperolSpritz/aperolSpritz3.jpeg",
+      "imgs": []
     },
     {
       "id": 2,
