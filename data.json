@@ -5,35 +5,40 @@
       "prato": "Cabista",
       "descricao": "Peixe empanado, Pirão, Arroz e Salada",
       "serve_1": 53.90,
-      "serve_2": 96.90
+      "serve_2": 96.90,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Filé de peixe com purê de baroa",
       "descricao": "Peixe grelhado, purê de batata baroa, Arroz e Salada quente",
       "serve_1": 53.90,
-      "serve_2": 96.90
+      "serve_2": 96.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Peixe Pargo",
       "descricao": "Arroz, Pirão, Salada e Fritas",
       "serve_1": 71.90,
-      "serve_2": 129.90
+      "serve_2": 129.90,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Filé de Peixe à Parmegiana",
       "descricao": "Molho de tomate, Mozzarella, Orégano, Arroz e Fritas",
       "serve_1": 71.90,
-      "serve_2": 129.90
+      "serve_2": 129.90,
+      "imgs": []
     },
     {
       "id": 5,
       "prato": "Peixe do dia",
       "descricao": "Arroz, Pirão, Salada e Fritas",
       "serve_1":  0,
-      "serve_2": 154.90
+      "serve_2": 154.90,
+      "imgs": []
     }
   ],
   "Camarao": [
@@ -42,28 +47,32 @@
       "prato": "Moqueca de camarão",
       "descricao": "Arroz e farofa de dendê",
       "serve_1": 60.90,
-      "serve_2": 109.90
+      "serve_2": 109.90,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Camarão com catupiry",
       "descricao": "Arroz e Salada",
       "serve_1": 60.90,
-      "serve_2": 109.90
+      "serve_2": 109.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Estrogonofe de camarão",
       "descricao": "Arroz, Fritas, Salada",
       "serve_1": 63.90,
-      "serve_2": 114.90
+      "serve_2": 114.90,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Camarão à milanesa",
       "descricao": "Arroz à grega e Salada",
       "serve_1": 63.90,
-      "serve_2": 114.90
+      "serve_2": 114.90,
+      "imgs": []
     }
   ],
   "Carne": [
@@ -72,21 +81,24 @@
       "prato": "Carioquinha",
       "descricao": "Bife, Arroz, Feijão, Fritas e Salada",
       "serve_1": 53.90,
-      "serve_2": 97.90
+      "serve_2": 97.90,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Contrafilé à parmegiana",
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
       "serve_1": 67.90,
-      "serve_2": 119.90
+      "serve_2": 119.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Carne assada com purê",
       "descricao": "Carne assada, Purê de batata, Arroz, Salada",
       "serve_1": 51.90,
-      "serve_2": 92.90
+      "serve_2": 92.90,
+      "imgs": []
     }
   ],
   "Frango": [
@@ -95,21 +107,24 @@
       "prato": "Caipira",
       "descricao": "Filé de frango à milanesa, Arroz, Feijão, Fritas e Salada",
       "serve_1": 51.90,
-      "serve_2": 92.90
+      "serve_2": 92.90,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Filé de frango à parmegiana",
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
       "serve_1": 52.90,
-      "serve_2": 95.90
+      "serve_2": 95.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Omelete de queijo",
       "descricao": "Ovo, Mussarela",
       "serve_1": 35.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Massas": [
@@ -118,21 +133,24 @@
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho bolonhesa - Quatro queijos - Poverella",
       "serve_1": 70.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho camarão ao molho vermelho",
       "serve_1": 84.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Espaguete - Nhoque - Talharim",
       "descricao": "Molho camarão ao catupiry",
       "serve_1": 91.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Lasanha": [
@@ -141,14 +159,16 @@
       "prato": "Bolonhesa - Quatro queijos",
       "descricao": "",
       "serve_1": 70.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Camarão",
       "descricao": "",
       "serve_1": 84.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Aperitivos": [
@@ -157,35 +177,40 @@
       "prato": "Casquinha de siri",
       "descricao": "uma unidade",
       "serve_1": 19.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Azeitona temperada",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 29.90
+      "serve_2": 29.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Batata frita",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 39.90
+      "serve_2": 39.90,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Batata frita turbinada",
       "descricao": "fritas queijo e bacon",
       "serve_1": 0,
-      "serve_2": 63.90
+      "serve_2": 63.90,
+      "imgs": []
     },
     {
       "id": 5,
       "prato": "Pastel 8 unidades (escolha dois sabores)",
       "descricao": "camarão, queijo, carne, pera e gorgonzola, frutos do mar (siri, polvo, mexilhao, camarao)",
       "serve_1": 0,
-      "serve_2": 49.90
+      "serve_2": 49.90,
+      "imgs": []
     }
   ],
   "Combos": [
@@ -194,21 +219,24 @@
       "prato": "Calabresa com fritas",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 85.90
+      "serve_2": 85.90,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Frango com fritas",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 85.90
+      "serve_2": 85.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Peixe com fritas",
       "descricao": "uma porção",
       "serve_1": 0,
-      "serve_2": 89.90
+      "serve_2": 89.90,
+      "imgs": []
     }
   ],
   "Pizzas": [
@@ -217,14 +245,16 @@
       "prato": "Bianca",
       "descricao": "azeite, sal, parmesão, alecrim",
       "serve_1": 23.90,
-      "serve_2": 42.90
+      "serve_2": 42.90,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Americana",
       "descricao": "muzzarella de bufala, molho de tomate, presunto, bacon ovos",
       "serve_1": 46.90,
-      "serve_2": 77.90
+      "serve_2": 77.90,
+      "imgs": []
     },
     {
       "id": 3,
@@ -232,17 +262,17 @@
       "descricao": "muzzarella de bufala, molho de tomate, calabresa, cebola, azeitona preta, oregano",
       "serve_1": 46.90,
       "serve_2": 72.90,
-      "img_1":"public/pizza/calabresa/calabresa1.jpeg",
-      "img_2":"public/pizza/calabresa/calabresa2.jpeg",
-      "img_3":"public/pizza/calabresa/calabresa3.jpeg",
-      "imgs": []
+      "imgs": ["public/pizza/calabresa/calabresa1.jpeg",
+      "public/pizza/calabresa/calabresa2.jpeg",
+      "public/pizza/calabresa/calabresa3.jpeg"]
     },
     {
       "id": 4,
       "prato": "Camarao",
       "descricao": "muzzarella de bufala, molho de tomate, oregano camarao",
       "serve_1": 50.90,
-      "serve_2": 83.90
+      "serve_2": 83.90,
+      "imgs": []
     },
     {
       "id": 5,
@@ -250,10 +280,9 @@
       "descricao": "muzzarella de bufala, molho de tomate, frango, catupiry, oregano",
       "serve_1":  50.90,
       "serve_2": 83.90,
-      "img_1":"public/pizza/frangoComCatupiry/frangoComCatupiry1.jpeg",
-      "img_2":"public/pizza/frangoComCatupiry/frangoComCatupiry2.jpeg",
-      "img_3":"public/pizza/frangoComCatupiry/frangoComCatupiry3.jpeg",
-      "imgs": []
+      "imgs": ["public/pizza/frangoComCatupiry/frangoComCatupiry1.jpeg",
+      "public/pizza/frangoComCatupiry/frangoComCatupiry2.jpeg",
+      "public/pizza/frangoComCatupiry/frangoComCatupiry3.jpeg"]
     },
     {
       "id": 6,
@@ -261,17 +290,17 @@
       "descricao": "muzzarella de bufala, molho de tomate, manjericão, tomate",
       "serve_1":  40.90,
       "serve_2": 66.90,
-      "img_1":"public/pizza/marguerita/marguerita1.jpeg",
-      "img_2":"public/pizza/marguerita/marguerita2.jpeg",
-      "img_3":"public/pizza/marguerita/marguerita3.jpeg",
-      "imgs": []
+      "imgs": ["public/pizza/marguerita/marguerita1.jpeg",
+      "public/pizza/marguerita/marguerita2.jpeg",
+      "public/pizza/marguerita/marguerita3.jpeg"]
     },
     {
       "id": 7,
       "prato": "Mozzarella",
       "descricao": "muzzarella de bufala",
       "serve_1":  40.90,
-      "serve_2": 66.90
+      "serve_2": 66.90,
+      "imgs": []
     },
     {
       "id": 8,
@@ -279,24 +308,25 @@
       "descricao": "muzzarella de bufala, molho de tomate, presunto, ovo, calabresa, tomate, cebola, pimentao, azeitona",
       "serve_1":  50.90,
       "serve_2": 82.90,
-      "img_1":"public/pizza/portuguesa/portuguesa1.jpeg",
-      "img_2":"public/pizza/portuguesa/portuguesa2.jpeg",
-      "img_3":"public/pizza/portuguesa/portuguesa3.jpeg",
-      "imgs": []
+      "imgs": ["public/pizza/portuguesa/portuguesa1.jpeg",
+      "public/pizza/portuguesa/portuguesa2.jpeg",
+      "public/pizza/portuguesa/portuguesa3.jpeg"]
     },
     {
       "id": 9,
       "prato": "Quatro queijo",
       "descricao": "muzzarella de bufala, molho de tomate, parmesão, gorgonzola, catupiry",
       "serve_1":  50.90,
-      "serve_2": 82.90
+      "serve_2": 82.90,
+      "imgs": []
     },
     {
       "id": 10,
       "prato": "Valtellina",
       "descricao": "muzzarella de bufala, molho de tomate, tomate seco, rucula",
       "serve_1":  46.90,
-      "serve_2": 82.90
+      "serve_2": 82.90,
+      "imgs": []
     }
   ],
   "Pizzas doces": [
@@ -306,10 +336,9 @@
       "descricao": "muzzarella de bufala, banana, canela, açúcar",
       "serve_1": 38.90,
       "serve_2": 64.90,
-      "img_1":"public/pizza/banana/banana1.jpeg",
-      "img_2":"public/pizza/banana/banana2.jpeg",
-      "img_3":"public/pizza/banana/banana3.jpeg",
-      "imgs": []
+      "imgs": ["public/pizza/banana/banana1.jpeg",
+      "public/pizza/banana/banana2.jpeg",
+      "public/pizza/banana/banana3.jpeg"]
     },
     {
       "id": 2,
@@ -317,24 +346,25 @@
       "descricao": "muzzarella de bufala, banana, creme de leite, canela, chocolate, açúcar",
       "serve_1": 41.90,
       "serve_2": 69.90,
-      "img_1":"public/pizza/bananaComChocolate/bananaComChocolate1.jpeg",
-      "img_2":"public/pizza/bananaComChocolate/bananaComChocolate2.jpeg",
-      "img_3":"public/pizza/bananaComChocolate/bananaComChocolate3.jpeg",
-      "imgs": []
+      "imgs": ["public/pizza/bananaComChocolate/bananaComChocolate1.jpeg",
+      "public/pizza/bananaComChocolate/bananaComChocolate2.jpeg",
+      "public/pizza/bananaComChocolate/bananaComChocolate3.jpeg"]
     },
     {
       "id": 3,
       "prato": "Chocolate",
       "descricao": "muzzarella de bufala, creme de leite chocolate",
       "serve_1": 38.90,
-      "serve_2": 64.90
+      "serve_2": 64.90,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Romeu e Julieta",
       "descricao": "muzzarella de bufala, goiabada e catupiry",
       "serve_1": 41.90,
-      "serve_2": 69.90
+      "serve_2": 69.90,
+      "imgs": []
     }
   ],
   "Sobremesa": [
@@ -343,14 +373,16 @@
       "prato": "Banana valtellina",
       "descricao": "Banana creme de de leite chocolate(quente)",
       "serve_1": 14.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Sobremesa do dia",
       "descricao": "",
       "serve_1": 14.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Bebidas": [
@@ -359,77 +391,88 @@
       "prato": "Água sem gás",
       "descricao": "",
       "serve_1": 3.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Água com gás",
       "descricao": "",
       "serve_1": 4.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Refrigerante lata",
       "descricao": "coca cola, guaraná, fanta, etc",
       "serve_1": 8.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 5,
       "prato": "Guaravita",
       "descricao": "",
       "serve_1": 3.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 6,
       "prato": "Guaraviton",
       "descricao": "",
       "serve_1": 7.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 7,
       "prato": "Mate Leão",
       "descricao": "",
       "serve_1": 8.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 8,
       "prato": "Suco Del Valle",
       "descricao": "",
       "serve_1": 8.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 9,
       "prato": "Suco laranja copo",
       "descricao": "laranja pura sem gelo e sem água",
       "serve_1": 13.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 10,
       "prato": "Suco de laranja jarra",
       "descricao": "laranja pura, sem gelo sem água",
       "serve_1": 39.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 11,
       "prato": "Suco limonada suíça copo",
       "descricao": "",
       "serve_1": 12.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 12,
       "prato": "Suco limonada suíça jarra",
       "descricao": "",
       "serve_1": 34.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Cervejas": [
@@ -438,49 +481,56 @@
       "prato": "Heineken 600ml",
       "descricao": "",
       "serve_1": 18.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Original 600ml",
       "descricao": "",
       "serve_1": 14.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Stella artois 600ml",
       "descricao": "",
       "serve_1": 15.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Brahma 600ml",
       "descricao": "",
       "serve_1": 13.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 5,
       "prato": "Heineken long neck",
       "descricao": "",
       "serve_1": 11.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 6,
       "prato": "Brahma latão",
       "descricao": "",
       "serve_1": 9.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 7,
       "prato": "Antartica latão",
       "descricao": "",
       "serve_1": 9.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Vinhos": [
@@ -489,28 +539,32 @@
       "prato": "Galioto taça",
       "descricao": "",
       "serve_1": 19.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Concha toro",
       "descricao": "Cabernet, Sauvignon, Carmenere, Merlot, Malbec",
       "serve_1": 0,
-      "serve_2": 62.90
+      "serve_2": 62.90,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Porca de Murça",
       "descricao": "",
       "serve_1": 0,
-      "serve_2": 119.90
+      "serve_2": 119.90,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Periquita",
       "descricao": "",
       "serve_1": 0,
-      "serve_2": 119.90
+      "serve_2": 119.90,
+      "imgs": []
     }
   ],
   "Bebidas Alcoolicas": [
@@ -519,35 +573,40 @@
       "prato": "Whisky 8 anos",
       "descricao": "Dose",
       "serve_1": 19.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 2,
       "prato": "Whisky 12 anos",
       "descricao": "Dose",
       "serve_1": 29.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "Vodka Smirnoff",
       "descricao": "",
       "serve_1": 14.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Vodka Absolut",
       "descricao": "",
       "serve_1": 17.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "Campari",
       "descricao": "",
       "serve_1": 12.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ],
   "Drinks": [
@@ -557,66 +616,73 @@
       "descricao": "",
       "serve_1": 35.90,
       "serve_2": 0,
-      "img_1":"public/drink/aperolSpritz/aperolSpritz1.jpeg",
-      "img_2":"public/drink/aperolSpritz/aperolSpritz2.jpeg",
-      "img_3":"public/drink/aperolSpritz/aperolSpritz3.jpeg",
-      "imgs": []
+      "imgs": ["public/drink/aperolSpritz/aperolSpritz1.jpeg",
+      "public/drink/aperolSpritz/aperolSpritz2.jpeg",
+      "public/drink/aperolSpritz/aperolSpritz3.jpeg"]
     },
     {
       "id": 2,
       "prato": "Caipirinha",
       "descricao": "",
       "serve_1": 17.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 3,
       "prato": "CaipiVodka Smirnoff",
       "descricao": "",
       "serve_1": 19.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 4,
       "prato": "CaipiVodka Importada",
       "descricao": "",
       "serve_1": 25.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 5,
       "prato": "Cuba Libre",
       "descricao": "",
       "serve_1": 17.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 6,
       "prato": "Gin Tonica Nacional",
       "descricao": "",
       "serve_1": 29.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 7,
       "prato": "Gin Tonica Importada",
       "descricao": "",
       "serve_1": 35.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 8,
       "prato": "Mojito",
       "descricao": "",
       "serve_1": 25.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     },
     {
       "id": 9,
       "prato": "Moscow Mule",
       "descricao": "",
       "serve_1": 25.90,
-      "serve_2": 0
+      "serve_2": 0,
+      "imgs": []
     }
   ]
 }

@@ -10,7 +10,7 @@
 //   window.location.reload(true); // Força a recarga da página, ignorando o cache
 // }
 // limparCache()
-
+const breve = "public/breve1.jpg"
 
 // cardapio.js
 async function carregarJSON(url) {
@@ -74,14 +74,15 @@ function handlePlates(data, sectionId) {
       <div id="carouselExample${plate.prato.replaceAll(' ', '_')}" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="${plate.img_1}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
+            <img src="${plate.imgs[0] || breve}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
           <div class="carousel-item">
-            <img src="${plate.img_2}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
+            <img src="${plate.imgs[1] || breve}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
           <div class="carousel-item">
-            <img src="${plate.img_3}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
+            <img src="${plate.imgs[2]|| breve}" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
           </div>
+
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample${plate.prato.replaceAll(' ', '_')}" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
