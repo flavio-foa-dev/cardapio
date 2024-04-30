@@ -41,7 +41,7 @@
       "imgs": []
     }
   ],
-  "Camarao": [
+  "Camarões": [
     {
       "id": 1,
       "prato": "Moqueca de camarão",
@@ -75,7 +75,7 @@
       "imgs": []
     }
   ],
-  "Carne": [
+  "Carnes": [
     {
       "id": 1,
       "prato": "Carioquinha",
@@ -101,7 +101,7 @@
       "imgs": ["public/carnes/carne/carneAssada1.jpg", "public/carnes/carne/carneAssada2.jpg","public/carnes/carne/carneAssada3.jpg"]
     }
   ],
-  "Frango": [
+  "Frangos": [
     {
       "id": 1,
       "prato": "Caipira",
@@ -153,7 +153,7 @@
       "imgs": []
     }
   ],
-  "Lasanha": [
+  "Lasanhas": [
     {
       "id": 1,
       "prato": "Bolonhesa - Quatro queijos",
@@ -178,7 +178,7 @@
       "descricao": "uma unidade",
       "serve_1": 19.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/aperitivos/siri/cascaSiri1.jpg", "public/aperitivos/siri/cascaSiri2.jpg","public/aperitivos/siri/cascaSiri3.jpg"]
     },
     {
       "id": 2,
@@ -207,10 +207,10 @@
     {
       "id": 5,
       "prato": "Pastel 8 unidades (escolha dois sabores)",
-      "descricao": "camarão, queijo, carne, pera e gorgonzola, frutos do mar (siri, polvo, mexilhao, camarao)",
+      "descricao": "camarão, siri, queijo, carne, pera com gorgonzola",
       "serve_1": 0,
       "serve_2": 49.90,
-      "imgs": []
+      "imgs": ["public/aperitivos/pastel/pastel1.jpg", "public/aperitivos/pastel/pastel2.jpg", "public/aperitivos/pastel/pastel3.jpg"]
     }
   ],
   "Combos": [
@@ -367,7 +367,7 @@
       "imgs": []
     }
   ],
-  "Sobremesa": [
+  "Sobremesas": [
     {
       "id": 1,
       "prato": "Banana valtellina",
@@ -482,7 +482,7 @@
       "descricao": "",
       "serve_1": 18.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/cervejas600ml/heineken/heineken1.jpg", "public/cervejas600ml/heineken/heineken2.jpg", "public/cervejas600ml/heineken/heineken3.jpg"]
     },
     {
       "id": 2,
@@ -498,7 +498,7 @@
       "descricao": "",
       "serve_1": 15.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/cervejas600ml/stella/stella1.jpg", "public/cervejas600ml/stella/stella2.jpg", "public/cervejas600ml/stella/stella3.jpg"]
     },
     {
       "id": 4,
@@ -537,10 +537,10 @@
     {
       "id": 1,
       "prato": "Galioto taça",
-      "descricao": "",
+      "descricao": "Suave ou Seco",
       "serve_1": 19.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/vinhos/taca/taca1.jpg", "public/vinhos/taca/taca2.jpg", "public/vinhos/taca/taca3.jpg"]
     },
     {
       "id": 2,
@@ -548,7 +548,7 @@
       "descricao": "Cabernet, Sauvignon, Carmenere, Merlot, Malbec",
       "serve_1": 0,
       "serve_2": 62.90,
-      "imgs": []
+      "imgs": ["public/vinhos/conchaToro/conchaToro1.jpg", "public/vinhos/conchaToro/conchaToro2.jpg", "public/vinhos/conchaToro/conchaToro3.jpg"]
     },
     {
       "id": 3,
@@ -556,7 +556,7 @@
       "descricao": "",
       "serve_1": 0,
       "serve_2": 119.90,
-      "imgs": []
+      "imgs": ["public/vinhos/porcaMurca/porcaMurca1.jpg", "public/vinhos/porcaMurca/porcaMurca2.jpg", "public/vinhos/porcaMurca/porcaMurca3.jpg"]
     },
     {
       "id": 4,
@@ -564,7 +564,7 @@
       "descricao": "",
       "serve_1": 0,
       "serve_2": 119.90,
-      "imgs": []
+      "imgs": ["public/vinhos/periquita/periquita1.jpg", "public/vinhos/periquita/periquita2.jpg", "public/vinhos/periquita/periquita3.jpg"]
     }
   ],
   "Bebidas Alcoolicas": [

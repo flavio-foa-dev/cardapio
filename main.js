@@ -182,5 +182,8 @@ async function scrollToSection(sectionId, id) {
   if (sectionElement) {
     // Use o método scrollIntoView para rolar até a seção
     sectionElement.scrollIntoView({ behavior: "smooth", block: "start" });
+
+    // Feche todas as outras seções
+    // $(".collapse").not(`#${sectionId}`).collapse("hide");
   }
 }
