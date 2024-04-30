@@ -98,7 +98,7 @@
       "descricao": "Carne assada, Purê de batata, Arroz, Salada",
       "serve_1": 51.90,
       "serve_2": 92.90,
-      "imgs": []
+      "imgs": ["public/carnes/carne/carneAssada1.jpg", "public/carnes/carne/carneAssada2.jpg","public/carnes/carne/carneAssada3.jpg"]
     }
   ],
   "Frango": [
@@ -116,7 +116,7 @@
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
       "serve_1": 52.90,
       "serve_2": 95.90,
-      "imgs": []
+      "imgs": ["public/carnes/frango/parmegianaFrango1.jpg", "public/carnes/frango/parmegianaFrango2.jpg", "public/carnes/frango/parmegianaFrango3.jpg"]
     },
     {
       "id": 3,
