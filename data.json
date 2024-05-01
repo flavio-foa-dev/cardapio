@@ -41,7 +41,7 @@
       "imgs": []
     }
   ],
-  "Camarões": [
+  "Camarão": [
     {
       "id": 1,
       "prato": "Moqueca de camarão",
@@ -290,7 +290,7 @@
       "descricao": "muzzarella de bufala, molho de tomate, manjericão, tomate",
       "serve_1":  40.90,
       "serve_2": 66.90,
-      "imgs": ["public/pizza/marguerita/marguerita1.jpeg",
+      "imgs": ["public/pizza/marguerita/marguerita1.jpg",
       "public/pizza/marguerita/marguerita2.jpeg",
       "public/pizza/marguerita/marguerita3.jpeg"]
     },
@@ -318,7 +318,7 @@
       "descricao": "muzzarella de bufala, molho de tomate, parmesão, gorgonzola, catupiry",
       "serve_1":  50.90,
       "serve_2": 82.90,
-      "imgs": []
+      "imgs": ["public/pizza/quatroQueijo/quatroQueijo1.jpg", "public/pizza/quatroQueijo/quatroQueijo2.jpg", "public/pizza/quatroQueijo/quatroQueijo3.jpg"]
     },
     {
       "id": 10,
@@ -338,7 +338,7 @@
       "serve_2": 64.90,
       "imgs": ["public/pizza/banana/banana1.jpeg",
       "public/pizza/banana/banana2.jpeg",
-      "public/pizza/banana/banana3.jpeg"]
+      "public/pizza/banana/banana3.jpg"]
     },
     {
       "id": 2,
