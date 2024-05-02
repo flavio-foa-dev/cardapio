@@ -134,7 +134,7 @@
       "descricao": "Molho bolonhesa - Quatro queijos - Poverella",
       "serve_1": 70.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/massas/id1/id1.jpg", "public/massas/id1/id2.jpg", "public/massas/id1/id3.jpg", "public/massas/id1/id4.jpg", "public/massas/id1/id5.jpg"]
     },
     {
       "id": 2,
