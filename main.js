@@ -176,6 +176,8 @@ if(plates.imgs.length > 0) {
 
 }
 
+
+
 async function scrollToSection(sectionId, id) {
   // Fecha todos os acordeões
   $(".collapse").collapse("hide");

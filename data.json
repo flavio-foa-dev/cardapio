@@ -48,7 +48,7 @@
       "descricao": "Arroz e farofa de dendê",
       "serve_1": 60.90,
       "serve_2": 109.90,
-      "imgs": []
+      "imgs": ["public/camarao/moqueca/moqueca1.jpg", "public/camarao/moqueca/moqueca2.jpg", "public/camarao/moqueca/moqueca3.jpg"]
     },
     {
       "id": 2,
