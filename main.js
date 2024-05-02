@@ -80,21 +80,7 @@ function handlePlates(data, sectionId) {
         "_"
       )}" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="${
-              plate.imgs[0] || breve
-            }" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
-          </div>
-          <div class="carousel-item">
-            <img src="${
-              plate.imgs[1] || breve
-            }" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
-          </div>
-          <div class="carousel-item">
-            <img src="${
-              plate.imgs[2] || breve
-            }" width="250px" class="d-block w-100 rounded" alt="${plate.prato}">
-          </div>
+          ${handleImgCarrosel(plate)}
 
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample${plate.prato.replaceAll(
@@ -161,6 +147,33 @@ function handlePlates(data, sectionId) {
   `
     )
     .join("");
+}
+
+function handleImgCarrosel(plates) {
+ console.log("data", plates)
+if(plates.imgs.length > 0) {
+  return plates.imgs.map((img, index) =>`
+    <div class="carousel-item ${index === 0 ? 'active' : ''}">
+      <img
+        src="${img}"
+        width="250px"
+        class="d-block w-100 rounded"
+        alt="${plates.prato}">
+    </div>
+  `
+  ).join('')
+} else {
+  return `
+  <div class="carousel-item active">
+    <img
+      src="${breve}"
+      width="150px"
+      class="d-block rounded "
+      alt="sem imagem">
+  </div>
+`
+}
+
 }
 
 async function scrollToSection(sectionId, id) {
