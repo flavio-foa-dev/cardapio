@@ -540,7 +540,7 @@
       "descricao": "Suave ou Seco",
       "serve_1": 19.90,
       "serve_2": 0,
-      "imgs": ["public/vinhos/taca/taca1.jpg", "public/vinhos/taca/taca2.jpg", "public/vinhos/taca/taca3.jpg"]
+      "imgs": ["public/vinhos/taca/taca1.jpg", "public/vinhos/taca/taca2.jpg", "public/vinhos/taca/taca3.jpg","public/vinhos/taca/taca4.jpg", "public/vinhos/taca/taca5.jpg"]
     },
     {
       "id": 2,
