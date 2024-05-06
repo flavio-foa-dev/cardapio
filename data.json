@@ -658,7 +658,7 @@
       "descricao": "",
       "serve_1": 29.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/drink/gin/gin1.jpg", "public/drink/gin/gin2.jpg"]
     },
     {
       "id": 7,
@@ -666,7 +666,7 @@
       "descricao": "",
       "serve_1": 35.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/drink/gin/gin1.jpg", "public/drink/gin/gin2.jpg"]
     },
     {
       "id": 8,
