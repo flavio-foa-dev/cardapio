@@ -674,7 +674,7 @@
       "descricao": "",
       "serve_1": 25.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/drink/mojito/mojito1.jpg", "public/drink/mojito/mojito2.jpg"]
     },
     {
       "id": 9,
@@ -682,7 +682,7 @@
       "descricao": "",
       "serve_1": 25.90,
       "serve_2": 0,
-      "imgs": []
+      "imgs": ["public/drink/moscowMule/moscowMule1.jpg", "public/drink/moscowMule/moscowMule2.jpg"]
     }
   ]
 }
