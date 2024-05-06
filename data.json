@@ -108,7 +108,7 @@
       "descricao": "Filé de frango à milanesa, Arroz, Feijão, Fritas e Salada",
       "serve_1": 51.90,
       "serve_2": 92.90,
-      "imgs": []
+      "imgs": ["public/frango/caipira/caipira1.jpg", "public/frango/caipira/caipira2.jpg", "public/frango/caipira/caipira3.jpg"]
     },
     {
       "id": 2,
@@ -210,7 +210,7 @@
       "descricao": "camarão, siri, queijo, carne, pera com gorgonzola",
       "serve_1": 0,
       "serve_2": 49.90,
-      "imgs": ["public/aperitivos/pastel/pastel1.jpg", "public/aperitivos/pastel/pastel2.jpg", "public/aperitivos/pastel/pastel3.jpg"]
+      "imgs": ["public/aperitivos/pastel/pastel1.jpg", "public/aperitivos/pastel/pastel2.jpg", "public/aperitivos/pastel/pastel3.jpg", "public/aperitivos/pastel/pastel4.jpg", "public/aperitivos/pastel/pastel5.jpg"]
     }
   ],
   "Combos": [
