@@ -90,7 +90,7 @@
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
       "serve_1": 67.90,
       "serve_2": 119.90,
-      "imgs": []
+      "imgs": ["public/carnes/parmegiana/parmegiana1.jpeg", "public/carnes/parmegiana/parmegiana2.jpg", "public/carnes/parmegiana/parmegiana3.jpg"]
     },
     {
       "id": 3,
@@ -98,7 +98,7 @@
       "descricao": "Carne assada, Purê de batata, Arroz, Salada",
       "serve_1": 51.90,
       "serve_2": 92.90,
-      "imgs": ["public/carnes/carne/carneAssada1.jpg", "public/carnes/carne/carneAssada2.jpg","public/carnes/carne/carneAssada3.jpg"]
+      "imgs": ["public/carnes/assada/carneAssada1.jpg", "public/carnes/assada/carneAssada2.jpg","public/carnes/assada/carneAssada3.jpg"]
     }
   ],
   "Frangos": [
@@ -116,7 +116,7 @@
       "descricao": "Molho de tomate, Mussarela, Orégano, Arroz e Fritas",
       "serve_1": 52.90,
       "serve_2": 95.90,
-      "imgs": ["public/carnes/frango/parmegianaFrango1.jpg", "public/carnes/frango/parmegianaFrango2.jpg", "public/carnes/frango/parmegianaFrango3.jpg"]
+      "imgs": ["public/frango/parmegiana/parmegiana1.jpeg", "public/frango/parmegiana/parmegiana2.jpg", "public/frango/parmegiana/parmegiana3.jpg"]
     },
     {
       "id": 3,
